@@ -18,7 +18,6 @@ const items = [1,2,3,4]
 const result = items.map((item) => {
 	console.log(item)  
 })
-}
 ```
 
 ## ผลลัพธ์ของทั้ง 2 ฟังก์ชัน
