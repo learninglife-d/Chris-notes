@@ -1,5 +1,6 @@
 # Basic VI
 
+vi เป็นโปรแกรมสำหรับแก้ไขไฟล์ ที่ผมมักจะใช้บน console ไม่ว่าจะเป็นใน Linux และ Mac OSX
 ```
 vi [file name]
 ```
