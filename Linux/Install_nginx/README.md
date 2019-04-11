@@ -30,5 +30,5 @@ systemctl enable nginx && systemctl start nginx
 
 ## ทดสอบ
 ลองเปิดเบร้าเซอร์และใส่ ip address ของเครื่องที่เราได้ติดตั้งลงไป ก็จะพบหน้า wellcome ของ nginx ก็เป็นอันเสร็จสิ้น
-![alt text](https://github.com/learninglife-d/note/tree/master/Linux/install_nginx/nginx-welcome.png)
+![](https://github.com/learninglife-d/note/blob/master/Linux/Install_nginx/nginx-welcome.png)
 
