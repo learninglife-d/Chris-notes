@@ -39,3 +39,10 @@
 2. Learn Vue
 3. Build something awesome
 ```
+
+## Note
+In the console, enter 
+```
+app.todos.push({ text: 'New item' }) 
+```
+You should see a new item appended to the list.
