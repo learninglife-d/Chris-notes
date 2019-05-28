@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My first Vue app</title>
+        <title>v-bind</title>
         <script src="https://unpkg.com/vue"></script>
     </head>
     <body>
