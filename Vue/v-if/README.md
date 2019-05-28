@@ -1,0 +1,27 @@
+# v-if
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>v-if</title>
+        <script src="https://unpkg.com/vue"></script>
+    </head>
+    <body>
+        <div id="app">
+            <span v-if="seen">Now you see me</span>
+            <span v-if="Notseen">Now you not see me</span>
+        </div>
+
+        <script>
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    seen: true,
+                    Notseen: false
+                }
+            })
+        </script>
+    </body>
+</html>
+```
