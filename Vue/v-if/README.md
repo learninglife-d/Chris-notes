@@ -1,5 +1,6 @@
 # v-if
 
+## Code
 ```html
 <!DOCTYPE html>
 <html>
@@ -24,4 +25,9 @@
         </script>
     </body>
 </html>
+```
+
+## Result
+```
+Now you see me
 ```
