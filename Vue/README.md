@@ -7,3 +7,4 @@
 * [v-on:click](https://github.com/learninglife-d/Chris-notes/tree/master/Vue/v-onClick)
 * [v-model](https://github.com/learninglife-d/Chris-notes/tree/master/Vue/v-model)
 * [component 1](https://github.com/learninglife-d/Chris-notes/tree/master/Vue/v-component-1)
+* [Instant lifecycle](https://github.com/learninglife-d/Chris-notes/tree/master/Vue/instant-lifecycle)
