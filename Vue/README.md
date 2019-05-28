@@ -1,3 +1,3 @@
 # Vue.js
 
-* [First step](https://github.com/learninglife-d/note/tree/master/Vue/first_step)
+* [First step](https://github.com/learninglife-d/Chris-notes/tree/master/Vue/first_step)
