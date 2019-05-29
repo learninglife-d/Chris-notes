@@ -1,3 +1,3 @@
 # Instant lifecycle
 
-![lifecycle](https://github.com/learninglife-d/Chris-notes/blob/master/Vue/instant-lifecycle/lifecycle.png)
+![Alt text](https://raw.github.com/learninglife-d/Chris-notes/master/Vue/instant-lifecycle/lifecycle.png)
